@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="hp.gif" width="100%" alt="Heet Patel Banner" />
+</div>
 
-<!--
-**heet-1011/heet-1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a  href="https://github.com/heet-1011">
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/heet-1011/heet-1011/main/profile-summary-card-output/blueberry/3-stats.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/heet-1011/heet-1011/main/profile-summary-card-output/blueberry/1-repos-per-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/heet-1011/heet-1011/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" width="32.5%">
+</div>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>💻 Tech I've Worked On</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,pytorch,sklearn,anaconda,fastapi,mysql,docker,kubernetes,linux,ubuntu,kali,windows,raspberrypi,vscode,androidstudio,vim,github,qt,latex,ps,ai,ae,pr,au,xd&theme=dark&perline=15" alt="My Tech Stack" />
+  </a>
+</div>
