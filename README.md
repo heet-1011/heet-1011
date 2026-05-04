@@ -11,9 +11,9 @@
 </div>
 </a>
 
-<div align="center">
+<!-- <div align="center">
   <h3>💻 Tech I've Worked On</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,pytorch,sklearn,anaconda,fastapi,mysql,docker,kubernetes,linux,ubuntu,kali,windows,raspberrypi,vscode,androidstudio,vim,github,qt,latex,ps,ai,ae,pr,au,xd&theme=dark&perline=15" alt="My Tech Stack" />
   </a>
-</div>
+</div> -->
